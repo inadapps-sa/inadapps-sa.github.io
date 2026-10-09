@@ -1,1 +1,13 @@
-google.com, pub-3397251892601736, DIRECT, f08c47fec0942fa0
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>INAD Apps</title>
+</head>
+<body>
+  <h1>INAD Apps</h1>
+  <p>الموقع الرسمي لتطبيقات INAD</p>
+</body>
+</html>
